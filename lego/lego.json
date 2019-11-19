@@ -1,0 +1,28 @@
+{
+    
+ "modelli": [
+   {
+     "SetNumber": "LEGO 6080",
+ "SetTheme":" Castle",
+ "SetName": "Kings Castle",
+ "Year": "1984",
+"imgSrc":"001.jpg"
+   },
+
+   {
+     "SetNumber": "LEGO 6081",
+ "SetTheme":" Castle",
+ "SetName": "Kings Mountain Fortress",
+ "Year": "1990",
+"imgSrc":"003.jpg"
+   },
+
+   {
+     "SetNumber": "LEGO 6103",
+ "SetTheme":" Castle ",
+ "SetName": "Black Monarchs Castle",
+ "Year": "1988",
+ "imgSrc":""
+   }
+ ]
+}
